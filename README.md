@@ -18,7 +18,9 @@ Change variables at the top of the sketch to match your setup:
 Plug in matrix to Vcc, Gnd, and the PWN PIN chosen in the sketch.
 Compile/Upload code to arduino.
 
-NOTE: Only tested with Arduino Uno.
+Tested with:
+- Arudino Uno
+- BTF-LIGHTING 8x32 Pixel 256 Pixels WS2812B Digital Flexible LED Panel
 
 === License
 This project is released under a Public Domain License.
